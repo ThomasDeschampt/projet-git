@@ -1,0 +1,41 @@
+[33mcommit 7c6038e80ebdebf455023549ff67fc9fd572ce34[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Thomas Deschampt <thomas.deschampt@epsi.fr>
+Date:   Tue Nov 8 11:14:36 2022 +0100
+
+    modify file data02
+
+[33mcommit ba8f38fb36dd85fa6acf0c90a8220dde2dbee8ad[m
+Author: Thomas Deschampt <thomas.deschampt@epsi.fr>
+Date:   Tue Nov 8 11:13:36 2022 +0100
+
+    add file data02
+
+[33mcommit 6e603a0d7b9ed7ad668f41452feeb747af32c4d8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thomas Deschampt <thomas.deschampt@epsi.fr>
+Date:   Tue Nov 8 09:49:49 2022 +0100
+
+    modify data01, remote
+
+[33mcommit 16c069157055271b0a128844120398891bf4be91[m
+Author: Thomas Deschampt <thomas.deschampt@epsi.fr>
+Date:   Tue Nov 8 09:22:30 2022 +0100
+
+    add ignore
+
+[33mcommit 62c33e7cacc0db5ee5a2b468de59841b4e62ff1f[m
+Author: Thomas Deschampt <thomas.deschampt@epsi.fr>
+Date:   Mon Nov 7 16:57:57 2022 +0100
+
+    commit 1
+
+[33mcommit 1180982b65fff1630820c8936a13509fed27c4d0[m
+Author: Thomas Deschampt <thomas.deschampt@epsi.fr>
+Date:   Mon Nov 7 16:56:11 2022 +0100
+
+    commit+add same time
+
+[33mcommit 3aac8f5ce181093d4d9a0b49c093289c2c47bc96[m
+Author: Thomas Deschampt <thomas.deschampt@epsi.fr>
+Date:   Mon Nov 7 16:53:05 2022 +0100
+
+    first commit
